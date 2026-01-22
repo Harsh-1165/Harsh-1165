@@ -3,22 +3,22 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-maniya-a77a67257">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harshmaniya1165@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_harsh_1165_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://medium.com/@Harshmaniya">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://quora.com/profile/Harsh-Maniya-8">
-    <img src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/31075855">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
 
@@ -93,16 +93,26 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh-1165&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harsh-1165&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-1165&theme=dark&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-1165&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&theme=dark&hide_border=true&layout=compact" height="165"/>
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Harsh-1165&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=REPO_NAME&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=REPO_NAME&theme=dark" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Harsh-1165&icon=10&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&color=orange&style=flat" />
+</p>
 
