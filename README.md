@@ -80,17 +80,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=Harsh-1165&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-1165&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&theme=dark&hide_border=true&layout=compact" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harsh-1165&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harsh-1165&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
