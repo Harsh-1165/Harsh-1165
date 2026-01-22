@@ -35,12 +35,14 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harsh_1165_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-maniya-a77a67257)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Harshmaniya)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harsh-Maniya-8)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31075855)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshmaniya1165@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_harsh_1165_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-maniya-a77a67257)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Harshmaniya)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Harsh-Maniya-8)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31075855)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmaniya1165@gmail.com)
+
 
 ---
 
@@ -117,6 +119,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&color=orange&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&style=for-the-badge&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&style=for-the-badge&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Views&style=plastic&color=blueviolet" />
+<img src="https://visitcount.itsvg.in/api?id=Harsh-1165&label=Profile%20Views&color=12&icon=5" />
+
 </p>
 
