@@ -119,9 +119,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&style=for-the-badge&color=orange" />
-  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Views&style=plastic&color=blueviolet" />
-  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&style=for-the-badge&color=brightgreen" />
-  <img src="https://visitcount.itsvg.in/api?id=Harsh-1165&label=Profile%20Views&color=12&icon=5" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-1165&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
 </p>
 
