@@ -96,16 +96,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-1165&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-1165&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsh-1165&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Harsh-1165&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1165&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 
 
@@ -114,9 +115,10 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=KrushiSetu&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=retail-store&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=KrushiSetu&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-1165&repo=retail-store&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 
 
